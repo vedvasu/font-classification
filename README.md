@@ -20,9 +20,10 @@ Train a model to classify different fonts by self generating training data
 ![alt text](https://github.com/vedvasu/font-classification/blob/main/pipeline_diagram.jpg)
 
 ## Conclusions
-- LR performed with 94% precision on the limited distribution of "Hello World text"
+- LR performed with 96% precision on the limited distribution of "Hello, World!"
 - While SVM was 90% precision but was also able to capture font from other phrases
-- For the augumented data - LR was 83% precise
+- For the augumented data - LR was 81% precise
+- Model seem to be slightly overfitted on the generated data.
 
 
 ## Scope of improvements
