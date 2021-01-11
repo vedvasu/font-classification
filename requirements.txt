@@ -1,0 +1,15 @@
+jupyter==1.0.0
+jupyter-client==5.2.4
+jupyter-console==6.0.0
+jupyter-core==4.4.0
+jupyter-plotly-dash==0.4.2
+notebook==5.7.4
+numpy==1.18.0
+opencv-python==3.3.0.9
+pandas==0.20.3
+Pillow==4.2.1
+scikit-image==0.13.0
+scikit-learn==0.21.2
+scipy==1.4.1
+virtualenv==16.6.2
+xgboost==0.80
