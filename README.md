@@ -7,11 +7,11 @@ Train a model to classify different fonts by self generating training data
 - Part B - Preprocess Dataset.ipynb - Preprocessing of generated images
 - Part C - Extract Features.ipynb - Extraction of Image features
 - Part D - Train Model and Evaluate.ipynb - Train and evaluate models
-- Note: Skin Parts A, B, C if already added data folder in the working directory. 
+- Note: Skin Parts A, B, C if already added "data" folder in the working directory. 
   - [Download Link to generated dataset](https://drive.google.com/file/d/1NDCik5KP3ULkeiFzXCx4qAt99ZDcWad6/view?usp=sharing)
 
 ## Steps for prediction
-- Add models folder in the working directiory. 
+- Add "models" folder in the working directiory. 
   - [Download Link to trained models](https://drive.google.com/file/d/1n2wrDima_FFA92ixzycthichxJdaJGvv/view?usp=sharing)
 - Part E - Predictions Pipeline.ipynb - Predict single image having multiple fonts
 
